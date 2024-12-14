@@ -48,8 +48,8 @@
 
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
 
-### Name: JAYASURYA B
-### Register Number: 24001758
+### Name: Rishab p doshi
+### Register Number: 24900697
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
